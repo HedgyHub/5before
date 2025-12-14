@@ -68,7 +68,7 @@ label start:
 
     "Chłopak wpada jej w słowo."
 
-    B "Przepraszam"
+    B "Przepraszam, zgubiłem się."
 
 
 
